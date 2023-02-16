@@ -34,4 +34,4 @@ Um aplicativo de visualização de cardápio pode ser útil em restaurante e bar
 
 ## Público-Alvo
 
-O público-alvo desse projeto seria composto por clientes de restaurantes e bares que desejam ter acesso ao cardápio de forma digital e antecipada, e que valorizam a comodidade e a praticidade. Um outro público-alvo seria os proprietários de bares e restaurantes que desejam modernizar o seu estabelecimento, oferecendo uma experiência diferenciada aos seus clientes e se destacar no mercad. 
+O público-alvo desse projeto seria composto por clientes de restaurantes e bares que desejam ter acesso ao cardápio de forma digital e antecipada, e que valorizam a comodidade e a praticidade. Um outro público-alvo seria os proprietários de bares e restaurantes que desejam modernizar o seu estabelecimento, oferecendo uma experiência diferenciada aos seus clientes e se destacar no mercado. 
