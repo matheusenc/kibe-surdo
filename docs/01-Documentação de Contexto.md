@@ -15,7 +15,10 @@ Como melhorar a experiência de estabelecimentos e clientes através de cardápi
 Temos como objetivo a criação de uma aplicação mobile que possibilite aos estabelecimentos criarem e disponibilizarem seus cardápios de forma simples e eficaz. 
  
 > Objetivos Específicos :
-> - .....
+> - Desenvolver uma interface intuitiva e fácil de usar para que os estabelecimentos possam cadastrar e gerenciar seus cardápios de forma eficiente.
+> - Criar um sistema de busca avançado que permita aos usuários filtrar e encontrar facilmente os itens que desejam no cardápio.
+> - Oferecer aos estabelecimentos a opção de personalizar seus cardápios com imagens, descrições, preços e outras informações relevantes para os clientes.
+> - Garantir a disponibilidade do app em diferentes plataformas mobile e a compatibilidade com diferentes tipos de dispositivos, como smartphones e tablets, para aumentar a acessibilidade e o alcance do aplicativo.
 
 ## Justificativa
 
