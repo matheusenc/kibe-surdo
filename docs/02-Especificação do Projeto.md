@@ -220,12 +220,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O aplicativo deve conceder ao usuário master a opção de cadastrar /editar/excluir itens do cardápio digital. | ALTA | 
-|RF-002| O aplicativo deve permitir que o usuário visualize todos os itens cadastrados no cardápio digital (sejam eles alimentos ou bebidas) por meio de fotos. | MÉDIA |
-|RF-003| O aplicativo deve permitir que o usuário faça uma busca/filtre por um determinado item desejado no cardápio digital. | Média |
-|RF-004| O aplicativo deve apresentar a descrição e/ou composição do item selecionado pelo usuário. | Alta |
-|RF-005| O aplicativo deve conceder ao usuário a opção de avaliar determinado item do cardápio. | Média |
-|RF-006| O aplicativo deve permitir que o usuário envie dúvidas ou sugestões de forma anônima para o estabelecimento. | Baixa |
+|RF-001| O aplicativo deve conceder ao usuário master uma forma de login. | Alta | 
+|RF-002| O aplicativo deve conceder ao usuário master a opção de cadastrar /editar/excluir itens do cardápio digital. | Alta | 
+|RF-003| O aplicativo deve permitir que o usuário visualize todos os itens cadastrados no cardápio digital (sejam eles alimentos ou bebidas) por meio de fotos. | Média |
+|RF-004| O aplicativo deve permitir que o usuário faça uma busca/filtre por um determinado item desejado no cardápio digital. | Média |
+|RF-005| O aplicativo deve apresentar a descrição e/ou composição do item selecionado pelo usuário. | Alta |
+|RF-006| O aplicativo deve conceder ao usuário a opção de avaliar determinado item do cardápio. | Média |
+|RF-007| O aplicativo deve permitir que o usuário envie sugestões de forma anônima para o estabelecimento. | Baixa |
+|RF-008| O aplicativo deve permitir que o usuário master visualize as sujestões anonimas enviadas peloas usuarios. | Baixa |
 
 ### Requisitos não Funcionais
 
@@ -234,7 +236,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel. | Alta | 
 |RNF-002| O aplicativo deverá estar disponível ao usuário 24h por dia. |  Alta | 
 |RNF-003| O aplicativo deve conter uma interface gráfica de fácil manuseio. |  Média | 
-|RNF-004| O aplicativo deve estar disponível também no idioma inglês. |  BAIXA | 
+|RNF-004| O aplicativo deve estar disponível também no idioma inglês. |  Baixa | 
 |RNF-005| O aplicativo não deverá apresentar um tempo de resposta que exceda 3 segundos quando não existirem problemas relacionados à qualidade de conexão. |  Alta | 
 |RNF-006| O aplicativo deve suportar vários usuários conectados de forma simultânea, não apresentando lentidão em suas funcionalidades. |  Alta | 
 |RNF-007| O aplicativo será desenvolvido com React Native. |  Alta | 
